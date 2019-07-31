@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/TestFolder":{"guestpath":"/srv/TestFolder","hostpath":"C:/Users/dflynn/Documents/Engineering36/MutablePipeline1/Day3/files","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/dflynn/Documents/Engineering36/MutablePipeline1/Day3","disabled":false,"__vagrantfile":true}}}
